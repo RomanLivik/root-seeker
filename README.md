@@ -15,7 +15,7 @@ The script developed taking into account user capabilities: it works great on bo
 * World-Writable Directories: Search for folders that are writable by any user (ideal for hiding the payload)
 * Sudo & Permissions: Check sudo rights and search for accounts with empty passwords
 
-## Screenshot:
+## Screenshot
 <img width="552" height="974" alt="изображение" src="https://github.com/user-attachments/assets/b22afb07-6c62-4a64-afef-dd09c30ed0fd" />
 
 ## Installation
