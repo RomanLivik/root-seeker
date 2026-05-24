@@ -21,7 +21,7 @@ The script developed taking into account user capabilities: it works great on bo
 ## Installation
 The script does not require the installation of dependencies and third-party interpreters. Only pure Bash.
 ```
-git clone https://github.com/RomanLivik/root-seeker
+git clone https://github.com/GadzhievAleksandr/root-seeker
 cd root-seeker
 chmod +x rootseeker.sh
 ```
